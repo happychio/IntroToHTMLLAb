@@ -1,0 +1,85 @@
+body {
+  background-color: #f3e7e5;
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 16px;
+  word-spacing: 2px;
+  color: #000000;
+  font-weight: normal;
+}
+
+#logo {
+  height: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#beach {
+  height: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1 {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 40px;
+  letter-spacing: 2px;
+  word-spacing: 2px;
+  color: #000000;
+  font-weight: 700;
+  text-decoration: none;
+  font-style: italic;
+  font-variant: normal;
+  text-transform: capitalize;
+}
+.header {
+  text-align: center;
+}
+.welcome {
+  text-align: center;
+}
+.topnav {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 750px;
+  word-spacing: 100px;
+}
+
+.topnav a {
+  background-color: rgb(252, 252, 252);
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 20px;
+  letter-spacing: 2px;
+  color: #000000;
+  text-transform: uppercase;
+  outline: 9px inset #967259;
+  outline-offset: 5px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #967259;
+  color: white;
+  text-align: center;
+}
+
+.menu{
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
